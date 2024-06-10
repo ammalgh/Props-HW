@@ -1,0 +1,58 @@
+.section{
+  border: 2px solid #f5f6fa;
+  border-radius: 5px;
+  display: flex;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  justify-content: space-around;
+  background-color: #f5f6fa;
+}
+
+.btnn1{
+  border: 1px solid rgb(78 55 151);
+  width: 15%;
+  height: 3em;
+  border-radius: 12px;
+  margin-top: 18px;
+  background-color:white;
+  color: rgb(78 55 151);
+
+}
+
+.btnn2{
+  border: 1px solid rgb(78 55 151);
+  width: 15%;
+  height: 3em;
+  border-radius: 12px;
+  margin-top: 18px;
+  background-color: rgb(78 55 151);
+  color: white;
+}
+
+h1{
+  color:rgb(78 55 151) ;
+}
+
+
+
+.container {
+  display: flex;
+  justify-content: center; /* يجعل العناصر أفقياً في الوسط */
+  align-items: center; /* يجعل العناصر عمودياً في الوسط */
+   
+}
+
+.load{
+  border: 2px solid  rgb(78 55 151);
+  border-radius: 10px;
+  color:rgb(78 55 151) ;
+  background-color: white;
+  margin-top: 2em;
+  width: 10%;
+  display: flex;
+  align-items: center;
+   justify-content: center;
+   padding: 4px;
+  
+}
